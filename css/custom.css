@@ -1,0 +1,23 @@
+@media (max-width: 576px) {
+  h1,
+  .h1 {
+    font-size: 30px;
+    line-height: 35px;
+  }
+  .banner--content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .banner--form {
+    margin-top: 380px;
+  }
+}
+.make-it-flex {
+  display: flex;
+  justify-content: center;
+}
+@media (max-width: 992px) {
+  .pd--100-0 {
+    padding: 100px 0 0;
+  }
+}
